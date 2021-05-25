@@ -1,3 +1,26 @@
+## ur_msgs (melodic) - 1.3.3-1
+
+The packages in the `ur_msgs` repository were released into the `melodic` distro by running `/tmp/venv_bloom/bin/bloom-release ur_msgs --rosdistro=melodic` on `Tue, 25 May 2021 11:42:53 -0000`
+
+The `ur_msgs` package was released.
+
+Version of package(s) in repository `ur_msgs`:
+
+- upstream repository: https://github.com/ros-industrial/ur_msgs.git
+- release repository: https://github.com/ros-industrial-release/ur_msgs-release.git
+- rosdistro version: `1.3.2-1`
+- old version: `1.3.2-1`
+- new version: `1.3.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ur_msgs (melodic) - 1.3.2-1
 
 The packages in the `ur_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release ur_msgs --rosdistro=melodic` on `Mon, 12 Oct 2020 20:02:23 -0000`
