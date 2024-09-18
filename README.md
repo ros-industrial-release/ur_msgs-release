@@ -1,3 +1,26 @@
+## ur_msgs (noetic) - 1.4.0-1
+
+The packages in the `ur_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release ur_msgs -r noetic -t noetic -e` on `Wed, 18 Sep 2024 08:39:14 -0000`
+
+The `ur_msgs` package was released.
+
+Version of package(s) in repository `ur_msgs`:
+
+- upstream repository: https://github.com/ros-industrial/ur_msgs.git
+- release repository: https://github.com/ros-industrial-release/ur_msgs-release.git
+- rosdistro version: `1.3.4-1`
+- old version: `1.3.4-1`
+- new version: `1.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## ur_msgs (noetic) - 1.3.4-1
 
 The packages in the `ur_msgs` repository were released into the `noetic` distro by running `/tmp/venv_bloom/bin/bloom-release --rosdistro=noetic --track noetic ur_msgs --edit` on `Tue, 25 May 2021 12:10:22 -0000`
